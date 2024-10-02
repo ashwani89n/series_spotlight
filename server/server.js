@@ -1,4 +1,5 @@
 import express from 'express'
+import './config/dotenv.js';
 import seriesRouter from './routes/series.js'
 
 const app = express()

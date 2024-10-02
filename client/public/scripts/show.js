@@ -18,11 +18,11 @@ const renderShow = async () => {
         }
 
         document.getElementById('name').textContent = show.name;
-        document.getElementById('releaseYear').textContent = show.releaseYear;
+        document.getElementById('releaseyear').textContent = show.releaseyear;
         document.getElementById('genre').textContent = show.genre;
         document.getElementById('synopsis').textContent = show.synopsis;
-        document.getElementById('streamingPlatform').textContent = show.streamingPlatform;
-        document.getElementById('imdbRating').textContent =  show.imdbRating;
+        document.getElementById('streamingplatform').textContent = show.streamingplatform;
+        document.getElementById('imdbrating').textContent =  show.imdbrating;
         document.title = `Series Spotlight - ${show.name}`;
         
     } else {
