@@ -3,7 +3,7 @@
 Submitted by: Ashwani Balakrishnan Neminimadathil
 
 Series Spotlight is a web application that allows users to discover trending series/ shows by listing them.
-Time spent: 5 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
@@ -15,6 +15,8 @@ The following **required** functionality is completed:
 * [x] The user can click on each item in the list to see a detailed view of it, including all database fields
 * [x] The web app serves an appropriate 404 page when no matching route is defined
 * [x] The web app is appropriately styled using Picocss
+* [x] The web app is connected to a PostgreSQL database.
+* [x] The PostgreSQL database includes a table that matches the data displayed in the web app.
 
 ## Video Walkthrough
 
