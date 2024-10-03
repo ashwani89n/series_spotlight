@@ -29,6 +29,7 @@ GIF created with Licecap Tool
 ## Postgres DB
 
 <img src='https://github.com/ashwani89n/series_spotlight/blob/main/Series_Spotlight_Postgres1.png' title='Postgres Database' width='' />
+<img src='https://github.com/ashwani89n/series_spotlight/blob/main/Series_Spotlight_Postgres2.png' title='Postgres Database' width='' />
 
 ## License
 
